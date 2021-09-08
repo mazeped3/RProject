@@ -1,2 +1,0 @@
-# RProject
-Daniela
